@@ -15,8 +15,8 @@ This project is a simple and responsive art gallery webpage built using [Bootstr
 - **Easy Customization:** You can easily add, remove, or update images and styles.
 
 
-## Check it out!
-- 🌐 [Website](https://art-alpha-two.vercel.app)
+# You can check it out down below!
+- 🌐 [Sample Website](https://art-alpha-two.vercel.app)
 
 
 ## Project Structure
