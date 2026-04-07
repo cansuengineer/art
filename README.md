@@ -16,7 +16,7 @@ This project is a simple and responsive art gallery webpage built using [Bootstr
 
 
 ## Check it out!
-- 🌐 [Website](`https://art-alpha-two.vercel.app`)
+- 🌐 [Website](https://art-alpha-two.vercel.app)
 
 
 ## Project Structure
